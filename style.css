@@ -1,0 +1,9 @@
+/*Задала ширину и высоту блока, цвет
+фона, позицию текста в блоке*/
+p {
+	width: 120px;
+	height: 24px;
+	background: #ff733a;
+	text-align: center;
+	padding: 16px 0 16px;
+}
